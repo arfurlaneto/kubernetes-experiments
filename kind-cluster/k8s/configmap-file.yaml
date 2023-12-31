@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: goserver-file
+data:
+  TEXT: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque lacinia."
